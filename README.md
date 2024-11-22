@@ -25,8 +25,7 @@ This repository contains resources and guides for performing Open Source Intelli
 
 3. Follow the installation guide to set up the environment.
 
-Workflows
-
+## Workflows
 Explore detailed workflows for:
 - Domain Profiling
 - Email Tracing
