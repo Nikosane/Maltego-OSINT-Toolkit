@@ -23,3 +23,12 @@ This repository contains resources and guides for performing Open Source Intelli
    ```bash
    git clone https://github.com/Nikosane/Maltego-OSINT-Toolkit.git
 
+3. Follow the installation guide to set up the environment.
+
+Workflows
+
+Explore detailed workflows for:
+- Domain Profiling
+- Email Tracing
+- Social Media Analysis
+
